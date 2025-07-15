@@ -336,7 +336,7 @@ export default function Portfolio() {
                 },
                 {
                   icon: <FileTextIcon className="w-5 h-5 md:w-6 md:h-6" />,
-                  href: "https://drive.google.com/file/d/1pr5GDWLDU5tGvtdCpR4854FCQvbAJ0VF/view?usp=drive_link",
+                  href: "https://drive.google.com/file/d/1LVya-VWnpIJH-QvmDDBpRBSgCf_x0XO_/view?usp=drive_link",
                   label: "Resume",
                 },
               ].map((social, index) => (
