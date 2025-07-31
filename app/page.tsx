@@ -99,21 +99,7 @@ export default function Portfolio() {
       githubLink: "https://github.com/ayushhxx/Job-Signature", // Will be updated later
       websiteLink: "https://ayushportfolio-lac.vercel.app/", // Will be updated later
     },
-    {
-      title: " SIGNATURE",
-      description:
-        "A comprehensive job portal platform connecting employers with talented professionals. Features advanced search, real-time notifications, and seamless application management.",
-      technologies: ["React", "Node.js", "React", "Tailwind", "CSS", "JavaSrpit"],
-      features: [
-        "Advanced job search and filtering",
-        "Real-time job/interview searching",
-        "Easy Apply",
-        "Newly Job & Intership",
-      ],
-      status: "Live Project",
-      githubLink: "https://github.com/ayushhxx/Job-Signature", // Will be updated later
-      websiteLink: "https://ayushportfolio-lac.vercel.app/", // Will be updated later
-    },
+    
     
   ]
 
