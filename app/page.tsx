@@ -96,8 +96,8 @@ export default function Portfolio() {
         "Newly Job & Intership",
       ],
       status: "Live Project",
-      githubLink: "#", // Will be updated later
-      websiteLink: "#", // Will be updated later
+      githubLink: "https://github.com/ayushhxx/Job-Signature", // Will be updated later
+      websiteLink: "https://ayushportfolio-lac.vercel.app/", // Will be updated later
     },
     
   ]
