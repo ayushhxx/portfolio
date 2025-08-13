@@ -105,15 +105,6 @@ export default function Portfolio() {
 
   const certifications = [
     {
-      title: "Web Development",
-      issuer: "Null-class",
-      date: "june 2025",
-      description: "Successfully completed online Training on WEB DEVELOPMENT and real time project training on Learn To build a Real Time Website Like YouTube.",
-      credentiaId: "68444a67c9fca98ead4191cf",
-      status: "Active",
-      certificateUrl: "https://www.nullclass.com/certificates/68444a67c9fca98ead4191cf", // Replace with actual certificate URL when available
-    },
-    {
       title: "AWS - Solutions Architecture Job Simulation",
       issuer: "Forage",
       date: "August 2025",
@@ -121,6 +112,15 @@ export default function Portfolio() {
       credentiaId: "jvf3HfZFMgGivMHkk",
       status: "Active",
       certificateUrl: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_bs4jNuu7eYAzoJSYP_1755068813989_completion_certificate.pdf", // Replace with actual certificate URL when available
+    },
+    {
+      title: "Web Development",
+      issuer: "Null-class",
+      date: "june 2025",
+      description: "Successfully completed online Training on WEB DEVELOPMENT and real time project training on Learn To build a Real Time Website Like YouTube.",
+      credentiaId: "68444a67c9fca98ead4191cf",
+      status: "Active",
+      certificateUrl: "https://www.nullclass.com/certificates/68444a67c9fca98ead4191cf", // Replace with actual certificate URL when available
     },
     {
       title: "JavaScript",
