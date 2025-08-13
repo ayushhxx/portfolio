@@ -114,6 +114,15 @@ export default function Portfolio() {
       certificateUrl: "https://www.nullclass.com/certificates/68444a67c9fca98ead4191cf", // Replace with actual certificate URL when available
     },
     {
+      title: "AWS - Solutions Architecture Job Simulation",
+      issuer: "Forage",
+      date: "August 2025",
+      description: "hands-on experience designing and implementing cloud solutions on Amazon Web Services (AWS), focusing on areas like compute, storage, networking, and databases",
+      credentiaId: "jvf3HfZFMgGivMHkk",
+      status: "Active",
+      certificateUrl: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_bs4jNuu7eYAzoJSYP_1755068813989_completion_certificate.pdf", // Replace with actual certificate URL when available
+    },
+    {
       title: "JavaScript",
       issuer: "Infosys SpringBoard",
       date: "March 2025",
